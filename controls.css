@@ -1,0 +1,44 @@
+
+#controls {
+}
+
+.range {
+    width: 50px;
+}
+
+.buttons {
+    margin-top: 15px;
+}
+
+#number {
+    background-color: black;
+    color: white;
+}
+
+#random {
+    background-color: lightpink;
+}
+
+#plus {
+    background-color: darkgrey;
+    color: white;
+}
+
+
+/*save preview*/
+
+#previewsave {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+}
+
+.previtems {
+  width:auto;
+  height:auto;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+}
